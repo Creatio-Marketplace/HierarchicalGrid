@@ -1,4 +1,4 @@
-# Tree view for Creatio
+# [Tree view for Creatio][listing]
 
 The "Tree view for Creatio" add-on lets you configure a hierarchical representation of data in Creatio. You can enable the tree view in any section or detail.
 
@@ -14,3 +14,6 @@ The add-on is great for any companies that manage structured data. For example, 
 
 The add-on lets you use the standard view for sections and details.
 Build a tree by a lookup column of the data source. For example, the "Parent case" column in the "Case" section.
+
+<!-- Marketplace Link -->
+[listing]: https://github.com/Creatio-Marketplace/HierarchicalGrid
