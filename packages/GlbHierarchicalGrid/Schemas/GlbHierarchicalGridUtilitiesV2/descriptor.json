@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c015a44b-df4e-4e28-adbb-8e11036841df",
+    "Name": "GlbHierarchicalGridUtilitiesV2",
+    "ModifiedOnUtc": "\/Date(1666277897000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "GlbHierarchicalGridUtilitiesV2",
+    "DependsOn": []
+  }
+}

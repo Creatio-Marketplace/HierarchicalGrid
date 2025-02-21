@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.HierarchyParentColumnCaption.Value" Value="Parent Column:" />
+			<Item Name="LocalizableStrings.UseHierarchyCaption.Value" Value="Use Hierarchy" />
+		</Items>
+	</Group>
+</Resources>

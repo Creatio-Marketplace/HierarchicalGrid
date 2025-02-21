@@ -1,0 +1,25 @@
+﻿{
+  "Descriptor": {
+    "UId": "506a2c91-a1a0-2dfb-9e95-845334325375",
+    "Name": "GlbHierarchicalGrid",
+    "ModifiedOnUtc": "\/Date(1651495675000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      },
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ae5934a8-b609-454a-9cb0-630b3969567b",
+    "Name": "GlbHierarchicalViewGeneratorV2",
+    "ModifiedOnUtc": "\/Date(1651077908000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "GlbHierarchicalViewGeneratorV2",
+    "DependsOn": []
+  }
+}
