@@ -1,6 +1,6 @@
 {
-  "Name": "GlbHierarchicalGrid_2022-07-13_13.36.54",
-  "Code": "GlbHierarchicalGrid_2022-07-13_13.36.54",
+  "Name": "Hierarchical Grid",
+  "Code": "GlbHierarchicalGrid",
   "Description": "",
   "Maintainer": "Customer",
   "Icon": "77u/PHN2ZyBpZD0iSWNvbl9wYWdlc18tXzI0eDI0X2hlYXZ5IiBkYXRhLW5hbWU9Ikljb24gfCBwYWdlcyAtIDI0eDI0IHwgaGVhdnkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPgogIDxyZWN0IGlkPSJSZWN0YW5nbGVfNDI0MjEiIGRhdGEtbmFtZT0iUmVjdGFuZ2xlIDQyNDIxIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiLz4KICA8cGF0aCBpZD0iU3VidHJhY3Rpb25fMTAwNCIgZGF0YS1uYW1lPSJTdWJ0cmFjdGlvbiAxMDA0IiBkPSJNMTE1NzEtMTMxMjJoLTE0YTIsMiwwLDAsMS0yLTJ2LTEyYTIsMiwwLDAsMSwyLTJoMTRhMiwyLDAsMCwxLDIsMnYxMkEyLDIsMCwwLDEsMTE1NzEtMTMxMjJabS0xNC0xMXY4YTEsMSwwLDAsMCwxLDFoMTJhMSwxLDAsMCwwLDEtMXYtOFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMTU1MiAxMzE0MikiIGZpbGw9IiNmZmYiLz4KPC9zdmc+",
@@ -14,10 +14,6 @@
     {
       "UId": "506a2c91-a1a0-2dfb-9e95-845334325375",
       "Name": "GlbHierarchicalGrid"
-    },
-    {
-      "UId": "4c38851b-ba1b-4bc4-af82-d2a654e6edd7",
-      "Name": "UsrApp_uudsql1"
     }
   ]
 }
